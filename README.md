@@ -59,6 +59,7 @@
 - 💼 LinkedIn: *https://www.linkedin.com/in/sunny-yadav-241176364*  
 - 📧 Email: *sunnyyadavpersonnal@gmail.com*
 -    Portfolio: *https://portfolio-sunny-y.netlify.app/*
+-    IntelliPath: *https://intellipath-04e8.onrender.com/*
 
 ---
 
